@@ -1,0 +1,15 @@
+{
+  "name": "is_it_thorsday",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Shook",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "ejs": "^2.4.1"
+  }
+}
